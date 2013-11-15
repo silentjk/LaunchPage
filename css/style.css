@@ -48,7 +48,6 @@ table {
 BEGIN THEME STYLESHEET
 --------------------------------------------------------*/
 @font-face {
-	font-family: 'BebasNeueRegular';
 	src: url('../fonts/BebasNeue-webfont.eot');
 	src: url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/BebasNeue-webfont.woff') format('woff'), url('../fonts/BebasNeue-webfont.ttf') format('truetype'), url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
 	font-weight: normal;
@@ -114,7 +113,6 @@ hr {
 }
 pre {
 	height: auto;
-	font-family: Consolas, monospace;
 	border: 1px solid #f0f0f0;
 	background: #fafafa;
 	padding: 10px 20px;
@@ -214,45 +212,35 @@ body #load {
 	background-color: #ffffff;
 }
 #qLpercentage {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 60px !important;
 	line-height: 1;
 }
 h1 {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 80px;
-	text-transform: uppercase;
 	position: relative;
 	margin-bottom: 0px;
 }
 h2 {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 44px;
-	text-transform: uppercase;
 	position: relative;
 }
 h3 {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 30px;
 }
 h4 {
-	font-family: Myriad Pro, sans-serif;
 	font-weight: bold;
 	font-size: 27px;
 }
 h5 {
-	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
 }
 h6 {
-	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 }
 p {
 	margin-bottom: 10px;
 }
 p.lead {
-	font-family: 'Open Sans', "Times New Roman", Times, serif;
 	font-size: 16px;
 	line-height: 1.2;
 	padding: 0;
@@ -319,7 +307,6 @@ nav .container .twelve.columns {
 	margin-left: 30px;
 }
 .main-menu a {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 22px;
 	color: white;
 	text-decoration: none;
@@ -388,7 +375,6 @@ nav.light .main-menu a.active, nav.dark .main-menu a.active {
 /*-----------------------------------------------------------------------------------*/
 
 .home-slide .home-slide-content {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 90px;
 	text-transform: uppercase;
 	position: relative;
@@ -563,7 +549,6 @@ nav.light .main-menu a.active, nav.dark .main-menu a.active {
 	background-image: url(../images/parallax/parallax1.jpg);
 }
 p.quote {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 48px;
 	line-height: 1;
 	margin-bottom: 20px;
@@ -621,11 +606,9 @@ p.quote {
 }
 .twitter-author {
 	text-transform: uppercase;
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 25px;
 }
 .tweet {
-	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
 	color: #ffffff;
 	line-height: 1.4;
@@ -651,7 +634,6 @@ p.quote {
 	display: none;
 }
 .twitter .tweet {
-	font-family: 'HelveticaNeue Light', sans-serif;
 	font-size: 13px;
 	color: inherit;
 	width: auto;
@@ -691,7 +673,6 @@ p.quote {
 }
 .testimonial-slide .client-testimonial {
 	font-size: 13px;
-	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
 	color: white;
 	line-height: 1.67;
@@ -793,7 +774,6 @@ p.quote {
 	line-height: 0.8;
 }
 .subtitle {
-	font-family: 'Open Sans', "Times New Roman", Times, serif;
 	font-size: 25px;
 	line-height: 1.2;
 	padding: 0;
@@ -842,7 +822,6 @@ p.quote {
 	font-size: 80px;
 }
 .home-logo-text a {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 60px;
 	text-transform: uppercase;
 	position: relative;
@@ -1239,7 +1218,6 @@ p.quote {
 	margin-bottom: 30px;
 }
 .post-title {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 36px;
 	text-transform: uppercase;
 	line-height: 1;
@@ -1303,7 +1281,6 @@ p.quote {
 	margin-bottom: 40px;
 }
 .widget-title {
-	font-family: 'BebasNeueRegular', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
 	line-height: 1;
